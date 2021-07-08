@@ -1,0 +1,15 @@
+{
+  "name": "cypress-sem-cucumber",
+  "version": "1.0.0",
+  "description": "Projeto para demonstrar o uso das palavras-chave Dado/Quando/Então com Cypress sem Cucumber",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": ["cypress.io"],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  }
+}
